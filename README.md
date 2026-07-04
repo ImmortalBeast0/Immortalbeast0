@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Monish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<a href="https://www.linkedin.com/in/monish-coder-bb-/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=2E3192&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+C%2B%2B;Solving+one+problem+at+a+time" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+C%2B%2B" alt="Typing SVG" />
 
 </div>
 
@@ -14,12 +12,7 @@
 
 I'm a Computer Science Engineering student at Karpagam College of Engineering, Coimbatore, graduating in 2027. I build backend systems with Java and Spring Boot, and spend a good chunk of my time solving DSA problems in C++.
 
-A few things that describe how I work more than any tech stack does:
-
-- **Self-motivated** — I don't wait around for someone to push me to start something.
-- **Disciplined** — routines matter more to me than motivation on any given day.
-- **Long-term thinker** — I'd rather build something slow and solid than fast and shaky.
-- **Reader** — currently working through books like *No Excuses!* by Brian Tracy, alongside a structured communication improvement program.
+Self-motivated, disciplined, and a reader — currently working through *No Excuses!* by Brian Tracy alongside a structured communication improvement program.
 
 Right now I'm heads-down preparing for placements — sharpening DSA, SQL, and system design fundamentals, and polishing up real projects instead of just tutorials.
 
@@ -31,8 +24,7 @@ Right now I'm heads-down preparing for placements — sharpening DSA, SQL, and s
 A URL shortener that isn't just a CRUD wrapper — it includes a sliding window rate limiter and a double rolling hash implementation for collision handling. Redis caching is in progress as the next enhancement.
 [View Repo →](https://github.com/ImmortalBeast0/url-shortener)
 
-**🏦 Bank Account Management System** — *Java · Spring Boot · MySQL · React*
-A team project handling core banking operations — accounts, transactions, and secure access — built to mirror real-world backend patterns.
+**🏦 Bank Account Management System** — *Java · Spring Boot · MySQL · React* (team project)
 
 ---
 
@@ -55,14 +47,13 @@ A team project handling core banking operations — accounts, transactions, and 
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ImmortalBeast0&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ImmortalBeast0&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImmortalBeast0&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ### LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="60%" src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma" alt="LeetCode Stats"/>
 </div>
 
 Peak contest rating: **1730**
@@ -70,7 +61,7 @@ Peak contest rating: **1730**
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImmortalBeast0/ImmortalBeast0/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ImmortalBeast0/ImmortalBeast0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---

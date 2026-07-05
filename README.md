@@ -50,7 +50,9 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
 ### LeetCode Stats
 
 <div align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/Immortal-Beast/">
+    <img width="60%" src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
 </div>
 
 ---
@@ -60,6 +62,7 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-coder-bb-/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Immortal-Beast/)
 
 **Open to backend development opportunities — always happy to talk about Java, Spring Boot, or a good DSA problem.**
 

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Monish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+C%2B%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+C%2B%2B;What+to+Do%2C+When+to+Do+It+%E2%80%94+Like+It+or+Not%2C+No+Excuses" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 I'm a Computer Science Engineering student at Karpagam College of Engineering, Coimbatore, graduating in 2027. I build backend systems with Java and Spring Boot, and spend a good chunk of my time solving DSA problems in C++.
 
-Self-motivated, disciplined, and a reader — currently working through *No Excuses!* by Brian Tracy alongside a structured communication improvement program.
+Self-motivated and a reader — currently working through *No Excuses!* by Brian Tracy alongside a structured communication improvement program.
 
 Right now I'm heads-down preparing for placements — sharpening DSA, SQL, and system design fundamentals, and polishing up real projects instead of just tutorials.
 
@@ -24,8 +24,6 @@ Right now I'm heads-down preparing for placements — sharpening DSA, SQL, and s
 A URL shortener that isn't just a CRUD wrapper — it includes a sliding window rate limiter and a double rolling hash implementation for collision handling. Redis caching is in progress as the next enhancement.
 [View Repo →](https://github.com/ImmortalBeast0/url-shortener)
 
-**🏦 Bank Account Management System** — *Java · Spring Boot · MySQL · React* (team project)
-
 ---
 
 ### Tech Stack
@@ -36,7 +34,6 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -47,13 +44,13 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
 ### GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImmortalBeast0&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImmortalBeast0&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ### LeetCode Stats
 
 <div align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma" alt="LeetCode Stats"/>
+  <img width="55%" src="https://leetcode-stats-card.vercel.app/?username=Immortal-Beast&theme=dark" alt="LeetCode Stats"/>
 </div>
 
 Peak contest rating: **1730**

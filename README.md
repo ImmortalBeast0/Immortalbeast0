@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Monish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There!%20I'm%20Monish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Consolas" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+C%2B%2B;What+to+Do%2C+When+to+Do+It+%E2%80%94+Like+It+or+Not%2C+No+Excuses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+C%2B%2B;What+to+Do%2C+When+to+Do+It+%E2%80%94+Like+It+or+Not%2C+No+Excuses" alt="Typing SVG" />
 
 </div>
 

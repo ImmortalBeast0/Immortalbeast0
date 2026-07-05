@@ -22,7 +22,6 @@ Right now I'm heads-down preparing for placements — sharpening DSA, SQL, and s
 
 **🔗 URL Shortener** — *Spring Boot · PostgreSQL · React*
 A URL shortener that isn't just a CRUD wrapper — it includes a sliding window rate limiter and a double rolling hash implementation for collision handling. Redis caching is in progress as the next enhancement.
-
 [View Repo →](https://github.com/ImmortalBeast0/url-shortener)
 
 ---
@@ -51,7 +50,7 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
 ### LeetCode Stats
 
 <div align="center">
-  <img width="55%" src="https://leetcode-stats-card.vercel.app/?username=Immortal-Beast&theme=dark" alt="LeetCode Stats"/>
+  <img width="60%" src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 Peak contest rating: **1730**

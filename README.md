@@ -44,7 +44,7 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
 ### GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImmortalBeast0&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
+  <img width="48%" src="https://github-readme-stats-lac-nine-78.vercel.app/api?username=ImmortalBeast0&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ### LeetCode Stats

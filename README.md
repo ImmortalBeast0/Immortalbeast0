@@ -53,14 +53,6 @@ A URL shortener that isn't just a CRUD wrapper — it includes a sliding window 
   <img width="60%" src="https://leetcard.jacoblin.cool/Immortal-Beast?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-Peak contest rating: **1730**
-
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImmortalBeast0/ImmortalBeast0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
 ---
 
 ### Let's Connect

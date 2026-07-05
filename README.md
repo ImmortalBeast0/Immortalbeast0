@@ -22,6 +22,7 @@ Right now I'm heads-down preparing for placements — sharpening DSA, SQL, and s
 
 **🔗 URL Shortener** — *Spring Boot · PostgreSQL · React*
 A URL shortener that isn't just a CRUD wrapper — it includes a sliding window rate limiter and a double rolling hash implementation for collision handling. Redis caching is in progress as the next enhancement.
+
 [View Repo →](https://github.com/ImmortalBeast0/url-shortener)
 
 ---
